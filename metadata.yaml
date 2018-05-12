@@ -1,0 +1,29 @@
+_repo: Three-Young-PioneersA-Story-of-the-Early-Settlement-of-Our-Country_28173
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mueller, John Theodore
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '33180'
+    url: http://www.gutenberg.org/2009/agents/33180
+description: ''
+gutenberg_issued: '2009-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Puritans -- Juvenile fiction'
+- !lcsh 'Massachusetts -- History -- Colonial period, ca. 1600-1775 -- Juvenile fiction'
+title: 'Three Young Pioneers
+
+  A Story of the Early Settlement of Our Country'
+url: http://www.gutenberg.org/ebooks/28173
